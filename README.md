@@ -3,7 +3,7 @@ Built for the Katy Youth Hackathon Summer 2024.
 
 Website: https://accessible-traveller.vercel.app/
 
-## **What is the Accessible Mapper?**
+## **What is Accessible Mapper?**
 Accessible Mapper is a crowdsourced platform that helps users find and share detailed accessibility information about locations, ensuring everyone can navigate the world with confidence. Built with React, Flask, and MongoDB, it empowers communities to contribute real-time data on features like ramps, noise levels, and lighting conditions.
 
 <a href="https://accessible-traveller.vercel.app/"><img src="/thumbnail.png" />
